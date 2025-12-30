@@ -97,6 +97,5 @@ def main():
         print(f"Input Error: {e}")
     except Exception:
         print("An unexpected error occurred. Please try again.")
+[Visit GitHub](https://github.com/ohazrumeifeanyi2009-cos-assignment)
 
-if __name__ == "__main__":
-    main()
